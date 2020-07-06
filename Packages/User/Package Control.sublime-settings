@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Emmet",
+		"LESS",
+		"Package Control",
+		"React ES6 Snippets",
+		"Sass",
+		"SASS Build",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
